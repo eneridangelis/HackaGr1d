@@ -1,5 +1,7 @@
 {
   "name": "hackagr1d",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
